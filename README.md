@@ -1,4 +1,4 @@
-# Peek-a-Vue (v0.2.0-alpha)
+# Peek-a-Vue (v0.1.0-alpha)
 
 The source code for the open the box peek-a-boo game built with [Vue.js 3](https://v3.vuejs.org) and [Netlify](https://peek-a-boo-v1.netlify.app/)!
 
@@ -8,7 +8,7 @@ The codebase is a fun exploration of Vue.js 3's Composition API. It is still a w
 
 ## 📌 Milestones
 
-- [Start](https://github.com/bencodezen/peek-a-vue/tree/main): Where we started
+- [Start](https://github.com/SagarParmarr/memory-game/tree/main): Where we started
 
 ## Setup
 
